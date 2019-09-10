@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grabbable
+  - PlayerAttackBox
+  - PlayerHitBox
+  - EnemyHitBox
+  - EnemyAttackBox
+  - Camera Midpoint
+  - PlayerHealthUI
+  - EnemyHealthUI
+  - EnemyHealthSlider
+  - EnemySpawnTrigger
+  - Enemy
+  - LeftArm
+  - LeftLeg
+  - HealthUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Not Grabbed
+  - Player
+  - Obstacle
+  - Ground
+  - Shoot
+  - Release
+  - Hold
+  - Player Attack
+  - Player Hitbox
+  - Enemy Hitbox
+  - Enemy Attack
+  - Player Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
